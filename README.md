@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AirBnB Clone ― The ALX-Holberton BnB
 ![Optional Text](hbnb.png)
 ## Description of the project
